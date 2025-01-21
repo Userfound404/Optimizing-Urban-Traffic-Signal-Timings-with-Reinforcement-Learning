@@ -84,7 +84,7 @@ System Requirements:
 - Python 3.8+
 - SUMO 1.20+
 - Python Packages: Install the required Python dependencies:
-!pip install numpy torch matplotlib sumolib traci
+`!pip install numpy torch matplotlib sumolib traci`
 
 SUMO Installation: Follow the SUMO Installation Guide to set up SUMO on your machine.
 
